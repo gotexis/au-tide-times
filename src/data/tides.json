@@ -1,0 +1,5593 @@
+{
+  "generated": "2026-03-13T07:45:43",
+  "source": "BOM Tide Predictions (approximated from harmonic constants)",
+  "stations": [
+    {
+      "id": "NSW_TP001",
+      "bom_id": "60370",
+      "name": "Sydney (Fort Denison)",
+      "state": "NSW",
+      "lat": -33.8554,
+      "lon": 151.226,
+      "slug": "sydney-fort-denison",
+      "tides": [
+        {
+          "time": "2026-03-13T05:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:36",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NSW_TP002",
+      "bom_id": "60130",
+      "name": "Newcastle",
+      "state": "NSW",
+      "lat": -32.926,
+      "lon": 151.781,
+      "slug": "newcastle",
+      "tides": [
+        {
+          "time": "2026-03-13T05:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:42",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NSW_TP003",
+      "bom_id": "60140",
+      "name": "Port Kembla",
+      "state": "NSW",
+      "lat": -34.473,
+      "lon": 150.913,
+      "slug": "port-kembla",
+      "tides": [
+        {
+          "time": "2026-03-13T05:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:36",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NSW_TP004",
+      "bom_id": "60120",
+      "name": "Coffs Harbour",
+      "state": "NSW",
+      "lat": -30.305,
+      "lon": 153.139,
+      "slug": "coffs-harbour",
+      "tides": [
+        {
+          "time": "2026-03-13T05:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T14:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:42",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NSW_TP005",
+      "bom_id": "60150",
+      "name": "Eden",
+      "state": "NSW",
+      "lat": -37.071,
+      "lon": 149.906,
+      "slug": "eden",
+      "tides": [
+        {
+          "time": "2026-03-13T05:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:36",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NSW_TP006",
+      "bom_id": "60110",
+      "name": "Yamba",
+      "state": "NSW",
+      "lat": -29.434,
+      "lon": 153.36,
+      "slug": "yamba",
+      "tides": [
+        {
+          "time": "2026-03-13T05:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T07:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T14:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:42",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NSW_TP007",
+      "bom_id": "60310",
+      "name": "Lord Howe Island",
+      "state": "NSW",
+      "lat": -31.524,
+      "lon": 159.06,
+      "slug": "lord-howe-island",
+      "tides": [
+        {
+          "time": "2026-03-13T05:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T00:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T07:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T08:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T14:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T15:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T22:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:54",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "VIC_TP001",
+      "bom_id": "56640",
+      "name": "Melbourne (Williamstown)",
+      "state": "VIC",
+      "lat": -37.8636,
+      "lon": 144.8983,
+      "slug": "melbourne-williamstown",
+      "tides": [
+        {
+          "time": "2026-03-13T05:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:24",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "VIC_TP002",
+      "bom_id": "56650",
+      "name": "Geelong",
+      "state": "VIC",
+      "lat": -38.149,
+      "lon": 144.359,
+      "slug": "geelong",
+      "tides": [
+        {
+          "time": "2026-03-13T05:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:24",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "VIC_TP003",
+      "bom_id": "56670",
+      "name": "Portland",
+      "state": "VIC",
+      "lat": -38.344,
+      "lon": 141.61,
+      "slug": "portland",
+      "tides": [
+        {
+          "time": "2026-03-13T04:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:18",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "VIC_TP004",
+      "bom_id": "56660",
+      "name": "Point Lonsdale",
+      "state": "VIC",
+      "lat": -38.289,
+      "lon": 144.612,
+      "slug": "point-lonsdale",
+      "tides": [
+        {
+          "time": "2026-03-13T05:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:24",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "VIC_TP005",
+      "bom_id": "56680",
+      "name": "Lakes Entrance",
+      "state": "VIC",
+      "lat": -37.882,
+      "lon": 147.987,
+      "slug": "lakes-entrance",
+      "tides": [
+        {
+          "time": "2026-03-13T05:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:30",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "QLD_TP001",
+      "bom_id": "52510",
+      "name": "Brisbane Bar",
+      "state": "QLD",
+      "lat": -27.367,
+      "lon": 153.168,
+      "slug": "brisbane-bar",
+      "tides": [
+        {
+          "time": "2026-03-13T05:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T14:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:42",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "QLD_TP002",
+      "bom_id": "52600",
+      "name": "Gold Coast Seaway",
+      "state": "QLD",
+      "lat": -27.939,
+      "lon": 153.427,
+      "slug": "gold-coast-seaway",
+      "tides": [
+        {
+          "time": "2026-03-13T05:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T07:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T14:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:42",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "QLD_TP003",
+      "bom_id": "52310",
+      "name": "Cairns",
+      "state": "QLD",
+      "lat": -16.929,
+      "lon": 145.777,
+      "slug": "cairns",
+      "tides": [
+        {
+          "time": "2026-03-13T05:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:24",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "QLD_TP004",
+      "bom_id": "52320",
+      "name": "Townsville",
+      "state": "QLD",
+      "lat": -19.256,
+      "lon": 146.829,
+      "slug": "townsville",
+      "tides": [
+        {
+          "time": "2026-03-13T05:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:30",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "QLD_TP005",
+      "bom_id": "52420",
+      "name": "Mackay Outer Harbour",
+      "state": "QLD",
+      "lat": -21.106,
+      "lon": 149.231,
+      "slug": "mackay-outer-harbour",
+      "tides": [
+        {
+          "time": "2026-03-13T05:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:36",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "QLD_TP006",
+      "bom_id": "52440",
+      "name": "Gladstone",
+      "state": "QLD",
+      "lat": -23.843,
+      "lon": 151.266,
+      "slug": "gladstone",
+      "tides": [
+        {
+          "time": "2026-03-13T05:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:36",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "QLD_TP007",
+      "bom_id": "52520",
+      "name": "Mooloolaba",
+      "state": "QLD",
+      "lat": -26.684,
+      "lon": 153.119,
+      "slug": "mooloolaba",
+      "tides": [
+        {
+          "time": "2026-03-13T05:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T14:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:42",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "QLD_TP008",
+      "bom_id": "52540",
+      "name": "Bundaberg (Burnett Heads)",
+      "state": "QLD",
+      "lat": -24.767,
+      "lon": 152.395,
+      "slug": "bundaberg-burnett-heads",
+      "tides": [
+        {
+          "time": "2026-03-13T05:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T06:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T14:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T21:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T04:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:42",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "WA_TP001",
+      "bom_id": "62650",
+      "name": "Fremantle",
+      "state": "WA",
+      "lat": -32.0569,
+      "lon": 115.7372,
+      "slug": "fremantle",
+      "tides": [
+        {
+          "time": "2026-03-13T04:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T16:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T22:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T04:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T17:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T23:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T05:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T11:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T00:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T06:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T12:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T18:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T07:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T13:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T19:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T14:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T20:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T02:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T21:24",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "WA_TP002",
+      "bom_id": "62620",
+      "name": "Broome",
+      "state": "WA",
+      "lat": -17.9644,
+      "lon": 122.2131,
+      "slug": "broome",
+      "tides": [
+        {
+          "time": "2026-03-13T04:12",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T16:36",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T22:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:00",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T17:30",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T05:54",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:18",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T06:42",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:06",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T07:30",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T13:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:00",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:24",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T20:48",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:12",
+          "height": 9.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T21:36",
+          "height": 9.0,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "WA_TP003",
+      "bom_id": "62630",
+      "name": "Geraldton",
+      "state": "WA",
+      "lat": -28.772,
+      "lon": 114.604,
+      "slug": "geraldton",
+      "tides": [
+        {
+          "time": "2026-03-13T04:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T16:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T22:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T04:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T17:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T23:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T05:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T11:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T00:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T06:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T12:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T18:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T07:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T13:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T19:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T01:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T14:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T20:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T02:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T21:24",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "WA_TP004",
+      "bom_id": "62670",
+      "name": "Albany",
+      "state": "WA",
+      "lat": -35.035,
+      "lon": 117.894,
+      "slug": "albany",
+      "tides": [
+        {
+          "time": "2026-03-13T04:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T16:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T22:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T04:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T17:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T23:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T05:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T11:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T00:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T06:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T12:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T07:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T13:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T19:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T14:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T20:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T02:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T21:30",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "WA_TP005",
+      "bom_id": "62660",
+      "name": "Esperance",
+      "state": "WA",
+      "lat": -33.862,
+      "lon": 121.896,
+      "slug": "esperance",
+      "tides": [
+        {
+          "time": "2026-03-13T04:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T16:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T22:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T17:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T05:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T06:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T07:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T13:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T20:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T21:36",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "WA_TP006",
+      "bom_id": "62610",
+      "name": "Wyndham",
+      "state": "WA",
+      "lat": -15.453,
+      "lon": 128.101,
+      "slug": "wyndham",
+      "tides": [
+        {
+          "time": "2026-03-13T04:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T16:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T17:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T23:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T00:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T06:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T07:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T14:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T21:48",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "SA_TP001",
+      "bom_id": "58680",
+      "name": "Adelaide (Outer Harbor)",
+      "state": "SA",
+      "lat": -34.776,
+      "lon": 138.481,
+      "slug": "adelaide-outer-harbor",
+      "tides": [
+        {
+          "time": "2026-03-13T04:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:12",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "SA_TP002",
+      "bom_id": "58690",
+      "name": "Port Lincoln",
+      "state": "SA",
+      "lat": -34.719,
+      "lon": 135.86,
+      "slug": "port-lincoln",
+      "tides": [
+        {
+          "time": "2026-03-13T04:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T17:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:06",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "SA_TP003",
+      "bom_id": "58700",
+      "name": "Port Augusta",
+      "state": "SA",
+      "lat": -32.504,
+      "lon": 137.763,
+      "slug": "port-augusta",
+      "tides": [
+        {
+          "time": "2026-03-13T04:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:12",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "SA_TP004",
+      "bom_id": "58670",
+      "name": "Victor Harbor",
+      "state": "SA",
+      "lat": -35.553,
+      "lon": 138.633,
+      "slug": "victor-harbor",
+      "tides": [
+        {
+          "time": "2026-03-13T04:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:12",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "TAS_TP001",
+      "bom_id": "54710",
+      "name": "Hobart",
+      "state": "TAS",
+      "lat": -42.8826,
+      "lon": 147.335,
+      "slug": "hobart",
+      "tides": [
+        {
+          "time": "2026-03-13T05:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T13:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:30",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "TAS_TP002",
+      "bom_id": "54720",
+      "name": "Burnie",
+      "state": "TAS",
+      "lat": -41.05,
+      "lon": 145.891,
+      "slug": "burnie",
+      "tides": [
+        {
+          "time": "2026-03-13T05:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:24",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "TAS_TP003",
+      "bom_id": "54730",
+      "name": "Devonport",
+      "state": "TAS",
+      "lat": -41.179,
+      "lon": 146.357,
+      "slug": "devonport",
+      "tides": [
+        {
+          "time": "2026-03-13T05:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:30",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "TAS_TP004",
+      "bom_id": "54700",
+      "name": "Launceston (Beauty Point)",
+      "state": "TAS",
+      "lat": -41.164,
+      "lon": 146.824,
+      "slug": "launceston-beauty-point",
+      "tides": [
+        {
+          "time": "2026-03-13T05:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T11:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:30",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:54",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T12:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:18",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:42",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T19:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T20:00",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T02:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:24",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:48",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T03:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T09:12",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:36",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T10:06",
+          "height": 1.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T16:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:30",
+          "height": 1.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NT_TP001",
+      "bom_id": "50640",
+      "name": "Darwin",
+      "state": "NT",
+      "lat": -12.4634,
+      "lon": 130.8456,
+      "slug": "darwin",
+      "tides": [
+        {
+          "time": "2026-03-13T04:30",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T16:54",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:18",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T17:48",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:12",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:36",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T00:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:00",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:24",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T07:48",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:18",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:42",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T14:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:06",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:30",
+          "height": 7.0,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T21:54",
+          "height": 7.0,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NT_TP002",
+      "bom_id": "50650",
+      "name": "Groote Eylandt",
+      "state": "NT",
+      "lat": -13.857,
+      "lon": 136.419,
+      "slug": "groote-eylandt",
+      "tides": [
+        {
+          "time": "2026-03-13T04:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:06",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    },
+    {
+      "id": "NT_TP003",
+      "bom_id": "50660",
+      "name": "Gove",
+      "state": "NT",
+      "lat": -12.227,
+      "lon": 136.696,
+      "slug": "gove",
+      "tides": [
+        {
+          "time": "2026-03-13T04:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T10:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-13T17:06",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-13T23:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T05:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-14T11:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-14T18:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T00:12",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T06:24",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-15T12:36",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-15T18:48",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T01:00",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T07:12",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-16T13:24",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-16T19:36",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T01:48",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T08:00",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-17T14:18",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-17T20:30",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T02:42",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T08:54",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-18T15:06",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-18T21:18",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T03:30",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T09:42",
+          "height": 3.5,
+          "type": "high"
+        },
+        {
+          "time": "2026-03-19T15:54",
+          "height": 0.0,
+          "type": "low"
+        },
+        {
+          "time": "2026-03-19T22:06",
+          "height": 3.5,
+          "type": "high"
+        }
+      ],
+      "solunar": {
+        "moon_phase": 0.834,
+        "moon_phase_name": "Waning Crescent",
+        "fishing_rating": 2
+      }
+    }
+  ]
+}
